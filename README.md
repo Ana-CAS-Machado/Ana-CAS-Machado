@@ -22,7 +22,7 @@
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-CAS-Machado&layout=compact)](https://github.com/Ana-CAS-Machado/github-readme-stats)
 
 
-- ![Snake animation](https://github.com/Ana-CAS-Machado/Ana-CAS-Machado/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ana-CAS-Machado/Ana-CAS-Machado/blob/output/github-contribution-grid-snake.svg)
 
 ### Conecte-se comigo:
 - [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ana-cas-machado.github.io/)
