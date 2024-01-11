@@ -19,15 +19,12 @@
 ## 🛠 Habilidades
 - ![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,git,github,py,ruby,figma,linux,r,)
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-CAS-Machado&layout=compact)](https://github.com/Ana-CAS-Machado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-CAS-Machado&layout=compact)](https://github.com/Ana-CAS-Machado/github-readme-stats)
 
 ### Conecte-se comigo:
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ana-cas-machado.github.io/)
-  
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-alves-da-silva-machado-a17244112/)
-
-- [![My Skills](https://skillicons.dev/icons?i=discord)](anna179)
-  
-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anna_Auditore)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ana-cas-machado.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-alves-da-silva-machado-a17244112/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anna_Auditore)
+[![My Skills](https://skillicons.dev/icons?i=discord)](anna179)
 
 Vamos codificar juntos e criar coisas incríveis! 🚀✨
