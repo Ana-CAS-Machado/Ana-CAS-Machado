@@ -1,7 +1,7 @@
 ## Olá, eu sou a Ana! 👋
 
 - 🚀 Desenvolvedora Front-end
-- 🏢 Estagiária na Prefeitura Municipal de São Paulo
+- 🏢 Assessor I na Prefeitura Municipal de São Paulo
 - 🎓 Estudante de Sistemas de Informação na FAM
 - 🌟 Trilha de Front-end | Santander Coders 2024 pela Ada Tech
 
@@ -15,6 +15,7 @@
 - 📚 Cursos: Alura (CSS, HTML, Docker, Git/GitHub, Linux), Nano Courses da FIAP (Python), POO na faculdade
 - 🌐 Destaque: Portfólio em Jekyll, uma realização significativa
 - 🚀 Site do [SMAE](https://smae.prefeitura.sp.gov.br/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
+- - 🚀 Site do [Planos Municipais](https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
   
 ## 🛠 Habilidades
 - ![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,git,github,py,ruby,figma,linux,r,)
