@@ -18,7 +18,7 @@
 - - 🚀 Site do [Planos Municipais](https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
   
 ## 🛠 Habilidades
-- ![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,git,github,py,ruby,figma,linux,r,)
+- ![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,docker,git,github,py,ruby,figma,linux,r,)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-CAS-Machado&layout=compact)](https://github.com/Ana-CAS-Machado/github-readme-stats)
 
