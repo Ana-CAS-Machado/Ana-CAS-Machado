@@ -8,7 +8,7 @@
 ### Tecnologias que estou explorando:
 - 💻 Editor de código favorito: ![My Skills](https://skillicons.dev/icons?i=vscode)
 - 🎮 Nintendo64 lover, especialmente The Legend Of Zelda: Ocarina Of Time ♥
-- 🚀 Aprendendo: ![My Skills](https://skillicons.dev/icons?i=js,vue,ts)
+- 🚀 Aprendendo: ![My Skills](https://skillicons.dev/icons?i=vue)
 
 ### Experiência e Projetos:
 - 🚀 Site da [Agenda 2030](https://agenda2030.prefeitura.sp.gov.br/); Feito em Angular version 18.1.3 [Link do GitHub](https://github.com/sepep-pmsp/observatorio-ods)
@@ -18,7 +18,7 @@
 - 🚀 Site do [Planos Municipais](https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
   
 ## 🛠 Habilidades
-- ![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,docker,git,github,py,ruby,figma,linux,r,)
+- ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,docker,git,github,py,linux,r,)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-CAS-Machado&layout=compact)](https://github.com/Ana-CAS-Machado/github-readme-stats)
 
