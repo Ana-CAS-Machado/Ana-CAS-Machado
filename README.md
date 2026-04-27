@@ -16,8 +16,6 @@
 - 🚀 Site do [SMAE](https://smae.prefeitura.sp.gov.br/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
 - 🚀 Site do [Planos Municipais]([https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/](https://planosmunicipais.prefeitura.sp.gov.br/)): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
 - 🚀 Site do [Programa de Metas]([https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/](https://programademetas.prefeitura.sp.gov.br/)): Desenvolvido em React, utilizando Biblioteca JS, JavaScript, HTML, e CSS
--  🚀 Site do [Planos Municipais](https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
-- 🚀 Site do [Planos Municipais](https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
   
 ## 🛠 Habilidades
 - ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,docker,git,github,py,linux,r,)
