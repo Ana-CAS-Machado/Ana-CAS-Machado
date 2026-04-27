@@ -14,8 +14,8 @@
 - 🚀 Site da [Agenda 2030](https://agenda2030.prefeitura.sp.gov.br/); Feito em Angular version 18.1.3 [Link do GitHub](https://github.com/sepep-pmsp/observatorio-ods)
 - 📚 Cursos: Alura (CSS, HTML, Docker, Git/GitHub, Linux), Nano Courses da FIAP (Python)
 - 🚀 Site do [SMAE](https://smae.prefeitura.sp.gov.br/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
-- 🚀 Site do [Planos Municipais]([https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/](https://planosmunicipais.prefeitura.sp.gov.br/)): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
-- 🚀 Site do [Programa de Metas]([https://projetos.codata.prefeitura.sp.gov.br/planosmunicipais/](https://programademetas.prefeitura.sp.gov.br/)): Desenvolvido em React, utilizando Biblioteca JS, JavaScript, HTML, e CSS
+- 🚀 Site do [Planos Municipais](https://planosmunicipais.prefeitura.sp.gov.br/): Desenvolvido em Jekyll, utilizando Ruby, JavaScript, Liquid, Sass, HTML, e CSS
+- 🚀 Site do [Programa de Metas](https://programademetas.prefeitura.sp.gov.br/): Desenvolvido em React, utilizando Biblioteca JS, JavaScript, HTML, e CSS
   
 ## 🛠 Habilidades
 - ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,docker,git,github,py,linux,r,)
